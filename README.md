@@ -7,7 +7,7 @@
 
 - 📫 Comment me joindre **nicolasbellina72@gmail.com**
 
-- 🌱 J'apprends actuellement **Vue.js | Nuxt.js | Fastify | GraphQL | MongoDB | Mangouste**
+- 🌱 J'apprends actuellement **Vue.js | Nuxt.js | Fastify | GraphQL | MongoDB | Mangoose**
 
 - 📄 Découvrez mes expériences **https://portfolio-nicolas-bellina.netlify.app/**
 

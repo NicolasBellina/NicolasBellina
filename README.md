@@ -1,6 +1,8 @@
 <h1 align="center">Bonjour 👋, je suis Nicolas Bellina</h1>
 <h3 align="center">Un développeur passionné</h3>
 
+- 🏢 Je suis en alternance chez **Kernel Developement au Mans**
+
 - 💼 Je travaille actuellement sur **un CRM pour Blindtrust**
 
 - 📫 Comment me joindre **nicolasbellina72@gmail.com**

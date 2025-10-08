@@ -1,13 +1,11 @@
 <h1 align="center">Bonjour 👋, je suis Nicolas Bellina</h1>
 <h3 align="center">Un développeur passionné</h3>
 
-- 🏢 Je suis en alternance chez **Kernel Developement au Mans**
-
-- 💼 Je travaille actuellement sur **un CRM pour Blindtrust**
+- 🏢 Je suis en alternance chez **Orange à Tours**
 
 - 📫 Comment me joindre **nicolasbellina72@gmail.com**
 
-- 🌱 J'apprends actuellement **Vue.js | Nuxt.js | Fastify | GraphQL | MongoDB | Mangoose**
+- 🌱 J'apprends actuellement **Sprint boot
 
 - 📄 Découvrez mes expériences **https://portfolio-nicolas-bellina.netlify.app/**
 

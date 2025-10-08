@@ -5,7 +5,7 @@
 
 - 📫 Comment me joindre **nicolasbellina72@gmail.com**
 
-- 🌱 J'apprends actuellement **Sprint boot
+- 🌱 J'apprends actuellement le Java avec Sprint boot
 
 - 📄 Découvrez mes expériences **https://portfolio-nicolas-bellina.netlify.app/**
 
@@ -24,18 +24,9 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
 </a>
-
+z
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasbellina&show_icons=true&locale=fr&layout=compact" alt="nicolasbellina" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasbellina&show_icons=true&locale=fr" alt="nicolasbellina" /></p>
-<p align="left">
-  <!-- ...tes autres icônes... -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-  </a>
-</p>
 

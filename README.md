@@ -5,7 +5,7 @@
 
 - 📫 Comment me joindre **nicolasbellina72@gmail.com**
 
-- 🌱 J'apprends actuellement le Java avec Sprint boot
+- 🌱 J'apprends actuellement le Java avec Sprint-boot
 
 - 📄 Découvrez mes expériences **https://portfolio-nicolas-bellina.netlify.app/**
 

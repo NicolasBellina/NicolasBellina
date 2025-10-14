@@ -7,8 +7,6 @@
 
 - 🌱 J'apprends actuellement le Java avec Sprint-boot
 
-- 📄 Découvrez mes expériences **https://portfolio-nicolas-bellina.netlify.app/**
-
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-bellina-a35252252/" target="_blank">

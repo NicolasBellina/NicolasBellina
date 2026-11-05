@@ -79,13 +79,15 @@ J'aime concevoir des solutions performantes, maintenables et évolutives, tout e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasbellina&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![Statistiques GitHub](./assets/github-stats.svg)](https://github.com/NicolasBellina?tab=repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbellina&layout=compact&theme=github_dark&hide_border=true)
+[![Langages les plus utilisés](./assets/top-languages.svg)](https://github.com/NicolasBellina?tab=repositories)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nicolasbellina&theme=github-dark-blue&hide_border=true)
+[![Activité et séries de contributions GitHub](./assets/github-streak.svg)](https://github.com/NicolasBellina)
 
 </div>
+
+<!-- Cartes générées chaque jour par .github/workflows/profile-stats.yml. -->
 
 ---
 
